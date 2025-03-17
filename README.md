@@ -1,4 +1,4 @@
-# Amigo Secreto 🎁
+# Amigo Secreto
 
 **Amigo Secreto** es una aplicación desarrollada como parte del desafío de la formación para principiantes en programación **G8 ONE - Alura LATAM**.  
 El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién será el "amigo secreto".
@@ -50,7 +50,7 @@ Accede a la aplicación sin necesidad de descargar nada:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone 
+   git clone https://github.com/bcoronel02/JuegoAmigoSecreto.git
    cd amigo-secreto
 
 2. Abre el archivo index.html en tu navegador.
