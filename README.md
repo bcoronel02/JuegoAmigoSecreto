@@ -29,7 +29,7 @@ El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y
 ## 🚀 Prueba la aplicación
 
 Accede a la aplicación sin necesidad de descargar nada:  
-👉 **[Ir a la página de Amigo Secreto]()**  
+👉 **[Ir a la página de Amigo Secreto](bcoronel02.github.io/JuegoAmigoSecreto)**  
 
 ### 🖼 Capturas de pantalla
 
