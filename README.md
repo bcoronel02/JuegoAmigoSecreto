@@ -51,7 +51,7 @@ Accede a la aplicación sin necesidad de descargar nada:
 
    ```bash
    git clone https://github.com/bcoronel02/JuegoAmigoSecreto.git
-   cd amigo-secreto
+   cd JuegoAmigoSecreto
 
 2. Abre el archivo index.html en tu navegador.
 
